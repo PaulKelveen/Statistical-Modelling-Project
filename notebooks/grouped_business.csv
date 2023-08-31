@@ -1,0 +1,1001 @@
+,Station Name,Average Rating,Average Reviews,Number of Bikes
+0,1 Ave & E 110 St,4.375,345.0,24
+1,1 Ave & E 16 St,4.375,1545.35,51
+2,1 Ave & E 18 St,4.4,1483.45,49
+3,1 Ave & E 30 St,4.35,1066.85,35
+4,1 Ave & E 62 St,4.3,713.9,31
+5,1 Ave & E 68 St,4.375,890.95,56
+6,1 Ave & E 94 St,4.275,512.85,38
+7,10 Ave & W 28 St,4.15,590.95,62
+8,10 St & 2 Ave,4.275,494.1,18
+9,10 St & 5 Ave,4.375,302.2,23
+10,10 St & 7 Ave,4.35,318.0,15
+11,11 Ave & Prospect Ave,4.25,282.95,19
+12,11 Ave & W 27 St,4.175,599.2,41
+13,11 Ave & W 41 St,4.3,1077.45,52
+14,11 Ave & W 59 St,4.325,1231.25,19
+15,12 Ave & W 125 St,4.05,513.4,28
+16,12 Ave & W 40 St,4.2,1106.55,67
+17,12 St & 4 Ave,4.275,398.45,24
+18,14 St & 5 Ave,4.425,272.15,15
+19,16th St & 4th Ave,4.35,302.9,29
+20,17 St & 5 Ave,4.4,321.35,24
+21,18 St & 27 Ave,4.325,523.3,23
+22,19 St & 24 Ave,4.4,394.45,22
+23,2 Av & 37 St,4.2,136.0,31
+24,2 Ave & 32 St,4.175,111.4,27
+25,2 Ave & 36 St,4.175,108.15,41
+26,2 Ave & E 104 St,4.325,340.7,31
+27,2 Ave & E 122 St,4.25,566.0,13
+28,2 Ave & E 125 St,4.25,532.2166666666667,28
+29,2 Ave & E 29 St,4.275,933.4,54
+30,2 Ave & E 31 St,4.375,1105.85,52
+31,2 Ave & E 72 St,4.35,824.3,42
+32,2 Ave & E 96 St,4.075,462.2,43
+33,20 Ave & 38 St,4.175,616.9,28
+34,20 Ave & 48 St,4.15,394.45,21
+35,21 Ave & Crescent St,4.225,582.2,24
+36,21 Ave & Shore Blvd,4.125,327.15,21
+37,21 St & 31 Dr,4.25,632.65,19
+38,21 St & 36 Ave,4.275,423.7,18
+39,21 St & 38 Ave,4.35,322.1,18
+40,21 St & 4 Ave,4.375,299.1,18
+41,21 St & 43 Ave,4.35,454.55,25
+42,21 St & Queens Plaza North,4.35,286.8,34
+43,23 Ave & 27 St,4.25,549.95,20
+44,23 St & 3 Ave,4.325,219.05,23
+45,24 Ave & 26 St,4.275,604.95,18
+46,24 Ave & 29 St,4.3,573.8,43
+47,24 St & 38 Ave,4.275,362.95,19
+48,24 St & 41 Ave,4.308333333333334,283.7,14
+49,24 St & 5 Ave,4.325,287.1,18
+50,25 Ave & 41 St,4.2,591.6,23
+51,27 Ave & 3 St,4.383333333333334,211.68333333333334,19
+52,27 Ave & 9 St,4.325,366.6,36
+53,27 St & Hunter St,4.25,310.45,28
+54,28 Ave & 35 St,4.15,830.4,25
+55,28 Ave & 44 St,4.275,668.8,15
+56,28 St & 36 Ave,4.275,471.45,29
+57,28 St & 41 Ave,4.3,243.9,24
+58,29 St & 5 Ave,4.25,250.25,16
+59,3 Ave & 17 St,4.375,359.4,19
+60,3 Ave & Carroll St,4.325,411.6,17
+61,3 Ave & E 100 St,4.3,313.75,26
+62,3 Ave & E 112 St,4.425,287.0,21
+63,3 Ave & E 163 St,3.875,68.3,26
+64,3 Ave & E 169 St,3.775,41.9,18
+65,3 Ave & E 170 St,3.55,24.35,17
+66,3 Ave & E 172 St,3.575,29.15,18
+67,3 Ave & E 174 St,3.075,37.6,32
+68,3 Ave & E 62 St,4.175,1173.15,47
+69,3 Ave & E 71 St,4.3,996.5,41
+70,3 Ave & Franklin Ave,3.875,65.75,18
+71,3 Ave & Schermerhorn St,4.275,461.25,32
+72,3 St & 3 Ave,4.275,542.25,78
+73,3 St & 7 Ave,4.25,364.25,26
+74,3 St & Hoyt St,4.35,433.25,50
+75,3 St & Prospect Park West,4.3,411.75,29
+76,30 Ave & 21 St,4.375,490.8,15
+77,30 Ave & 41 St,4.15,731.5,20
+78,30 Ave & 47 St,4.3,659.55,20
+79,30 St & 4 Ave,4.325,174.1,18
+80,31 Ave & 14 St,4.275,568.15,17
+81,31 Ave & 34 St,4.3,736.8,21
+82,31 Ave & 57 St,4.225,564.05,22
+83,31 Ave & Crescent St,4.275,596.3,20
+84,31 Ave & Steinway St,4.3,766.65,25
+85,31 St & 21 Ave,4.15,603.95,27
+86,31 St & Broadway,4.25,480.6,35
+87,31 St & Hoyt Ave N,4.225,718.0,34
+88,31 St & Newtown Ave,4.175,752.35,35
+89,31 St & Northern Blvd,4.25,365.85,35
+90,34 Ave & 13 St,4.325,438.85,18
+91,34 Ave & 21 St,4.225,484.35,23
+92,34 Ave & 31 St,4.2,465.2,17
+93,34 Ave & 38 St,4.2,417.95,31
+94,34 Ave & 45 St,4.35,383.2,22
+95,34 Ave & 48 St,4.35,436.25,24
+96,34 St & 35 Ave,4.25,404.5,19
+97,34 St & 38 Ave,4.325,434.35,24
+98,34 St & 4 Ave,4.2,168.95,22
+99,34 St & 5 Ave,4.4,221.8,18
+100,34th Ave & Vernon Blvd,4.375,190.35,28
+101,35 Ave & 10 St,4.2,217.65,24
+102,35 Ave & 37 St,4.225,422.9,27
+103,35 St & 30 Ave,4.15,819.85,29
+104,35 St & 34 Ave,4.25,463.75,25
+105,35 St & Broadway,4.325,535.75,17
+106,36 Ave & 10 St,4.2,266.55,17
+107,36 Ave & 31 St,4.275,467.9,26
+108,36 St & Ditmars Blvd,4.15,576.65,24
+109,37 Ave & 35 St,4.35,428.25,25
+110,37 St & 24 Ave,4.275,614.7,17
+111,38 Ave & 29 St,4.175,382.7,17
+112,38 St & 30 Ave,4.175,836.2,26
+113,38 St & Northern Blvd,4.3,444.35,23
+114,4 Ave & E 12 St,4.225,2123.0,36
+115,40 Ave & 9 St,4.275,242.75,17
+116,40 Ave & Crescent St,4.275,300.35,21
+117,41 St & 3 Ave,4.225,189.85,18
+118,41 St & 4 Ave,4.225,215.0,23
+119,43 St & 23 Ave,4.175,666.25,22
+120,43 St & 35 Ave,4.325,379.55,24
+121,43 St & 37 Ave,4.3,346.15,19
+122,43 St & Broadway,4.325,376.4,23
+123,44 Dr & Jackson Ave,4.125,322.6,30
+124,44 St & 6 Ave,4.275,278.35,22
+125,45 Rd & 11 St,4.3,580.15,20
+126,46 Ave & 5 St,4.125,692.15,39
+127,46 St & 25 Ave,4.275,844.45,23
+128,46 St & 6 Ave,4.225,289.65,20
+129,47 Ave & 31 St,4.25,282.35,22
+130,47 Ave & Skillman Ave,4.3,329.3,17
+131,48 Ave & 5 St,4.25,692.0,74
+132,48 St & 2 Ave,4.275,158.75,18
+133,48 St & Broadway,4.375,457.6,27
+134,49 Ave & 21 St,4.325,540.85,20
+135,5 Av & W 139 St,4.033333333333333,612.65,17
+136,5 Ave & 3 St,4.25,410.35,24
+137,5 Ave & 37 St,4.25,250.35,28
+138,5 Ave & 41 St,4.15,234.0,29
+139,5 Ave & E 103 St,4.325,300.55,34
+140,5 Ave & E 135 St,4.116666666666666,581.4666666666667,17
+141,5 Ave & E 63 St,4.35,1191.45,48
+142,5 Ave & E 72 St,4.3,1226.4,21
+143,5 Ave & E 78 St,4.2,1078.6,33
+144,5 Ave & W 131 St,4.1,575.2,19
+145,5 Corners Library,4.15,266.9,17
+146,5 St & 51 Ave,4.2,683.0,19
+147,5 St & 6 Ave,4.375,281.5,21
+148,50 St & 30 Ave,4.275,569.6,23
+149,50 St & Northern Blvd,4.375,357.35,22
+150,57 St & 1 Ave,4.15,54.0,26
+151,58 St & 2 Ave,4.25,174.55,35
+152,6 Ave & 12 St,4.4,302.95,25
+153,6 Ave & 21 St,4.375,300.4,25
+154,6 Ave & 9 St,4.4,284.65,23
+155,6 Ave & Canal St,4.125,859.35,71
+156,6 Ave & W 33 St,4.2,1680.95,51
+157,62 St & Northern Blvd,4.375,357.1,25
+158,7 Ave & 20 St,4.375,306.65,16
+159,7 Ave & 22 St,4.375,307.8,23
+160,7 Ave & Central Park South,4.25,1451.8,78
+161,7 Ave & Park Pl,4.05,711.75,24
+162,7 St & 3 Ave,4.225,485.75,20
+163,7 St & 5 Ave,4.35,310.5,23
+164,76 St & 21 Ave,4.075,137.25,19
+165,8 Ave & W 27 St,4.35,1415.05,28
+166,8 Ave & W 31 St,4.35,1393.5,96
+167,8 Ave & W 33 St,4.3,1294.2,82
+168,8 St & Astoria Blvd,4.375,345.2,17
+169,9 Ave & W 22 St,4.2,797.7,52
+170,9 St & 44 Rd,4.275,587.6,33
+171,Adam Clayton Powell Blvd & W 115 St,4.125,639.65,21
+172,Adam Clayton Powell Blvd & W 118 St,4.15,638.25,22
+173,Adam Clayton Powell Blvd & W 123 St,4.05,808.5,29
+174,Adam Clayton Powell Blvd & W 126 St,4.0,766.55,28
+175,Adam Clayton Powell Blvd & W 130 St,3.9833333333333334,672.4833333333333,21
+176,Adam Clayton Powell Blvd & W 132 St,3.9916666666666667,533.8833333333333,20
+177,Adam Clayton Powell Blvd & W 138 St,4.025,494.0,20
+178,Adam Clayton Powell Blvd & W 141 St,4.05,301.85,20
+179,Adam Clayton Powell Blvd & W 151 St,4.125,235.08333333333334,16
+180,Adelphi St & Myrtle Ave,4.275,436.55,23
+181,Albany Ave & Fulton St,4.275,331.8,24
+182,Albany St & Greenwich St,4.1,554.55,43
+183,Alexander Ave & E 134 St,4.35,210.0,16
+184,Allen St & Rivington St,4.25,617.65,36
+185,Allen St & Stanton St,4.25,817.9,45
+186,Amsterdam Ave & W 125 St,4.05,561.9,32
+187,Amsterdam Ave & W 131 St,4.066666666666666,680.8833333333333,18
+188,Amsterdam Ave & W 136 St,4.125,592.9,18
+189,Amsterdam Ave & W 152 St,4.25,353.9,15
+190,Amsterdam Ave & W 156 St,4.2125,329.575,26
+191,Amsterdam Ave & W 162 St,3.975,263.275,27
+192,Amsterdam Ave & W 167 St,4.0,200.45,22
+193,Amsterdam Ave & W 172 St,4.1125,213.15,23
+194,Amsterdam Ave & W 175 St,4.125,247.025,21
+195,Amsterdam Ave & W 180 St,3.975,281.05,20
+196,Amsterdam Ave & W 183 St,3.9,269.05,18
+197,Amsterdam Ave & W 66 St,4.0,839.35,19
+198,Amsterdam Ave & W 73 St,4.125,1310.25,50
+199,Anderson Ave & W 164 St,3.95,122.35,18
+200,Astor Place,4.4,164.45,12
+201,Astoria Park S & Shore Blvd,4.4,286.25,31
+202,Atlantic Ave & Fort Greene Pl,4.175,447.6,57
+203,Atlantic Ave & Furman St,4.15,333.9,27
+204,Audobon Ave & W 179 St,3.975,270.9,19
+205,Avenue D & E 10 St,4.4,995.85,27
+206,Avenue D & E 3 St,4.425,926.45,54
+207,Baldwin at Montgomery,4.45,191.45,13
+208,Bank St & Hudson St,4.225,993.05,21
+209,Bank St & Washington St,4.2,1025.3,28
+210,Banker St & Meserole Ave,4.375,564.15,30
+211,Barclay St & Church St,4.325,568.7,34
+212,Barrow St & Hudson St,4.25,1202.5,39
+213,Barry St & Tiffany St,4.05,30.85,18
+214,Bayard St & Baxter St,4.075,1139.8,35
+215,Bayard St & Leonard St,4.375,627.8,39
+216,Beaver St & Fayette St,4.325,455.55,27
+217,Beck St & Leggett Ave,3.95,48.3,20
+218,Bedford Ave & Bergen St,4.325,359.7,17
+219,Bedford Ave & Montgomery St,4.275,325.15,26
+220,Bedford Ave & S 9 St,4.25,981.2,22
+221,Bergen Ave,4.225,123.25,13
+222,Bergen St & Smith St,4.225,468.15,48
+223,Bergen St & Vanderbilt Ave,4.225,392.1,26
+224,Berkeley Pl & 6 Ave,4.225,673.75,39
+225,Berkeley Pl & 7 Ave,4.2,578.8,27
+226,Bialystoker Pl & Delancey St,4.3,635.35,31
+227,Boerum St & Broadway,4.375,508.1,16
+228,Bond St & Bergen St,4.25,555.9,24
+229,Boone Ave & E 172 St,3.85,27.2,19
+230,Boston Rd & E 167 St,3.975,38.25,21
+231,Boston Rd & Prospect Ave,3.525,25.25,19
+232,Bradhurst Ave & W 148 St,4.2,377.35,19
+233,Broad St & Bridge St,4.0,678.8,48
+234,Broadway & 12 St,4.275,394.5,27
+235,Broadway & 49 St,4.375,409.45,25
+236,Broadway & 51 St,4.35,431.75,25
+237,Broadway & E 14 St,4.3,2002.75,106
+238,Broadway & Furman Ave,4.175,101.2,29
+239,Broadway & Hancock St,4.2,164.78333333333333,34
+240,Broadway & Kosciuszko St,4.241666666666666,169.9,25
+241,Broadway & Madison St,4.166666666666667,225.26666666666668,21
+242,Broadway & Moylan Pl,4.075,445.25,40
+243,Broadway & Roebling St,4.35,963.85,21
+244,Broadway & W 131 St,4.091666666666667,495.31666666666666,20
+245,Broadway & W 133 St,4.15,534.7166666666667,18
+246,Broadway & W 153 St,4.225,317.85,20
+247,Broadway & W 155 St,4.175,278.9,30
+248,Broadway & W 160 St,4.125,249.55,22
+249,Broadway & W 165 St,3.775,190.75,21
+250,Broadway & W 25 St,4.125,1643.25,103
+251,Broadway & W 36 St,4.225,1518.35,73
+252,Broadway & W 37 St,4.225,1416.85,53
+253,Broadway & W 51 St,4.275,1469.45,75
+254,Broadway & Whipple St,4.25,495.6,23
+255,Bronx Shore Comfort Station,4.3,253.8,22
+256,Brook Ave & E 138 St,4.066666666666666,159.25,18
+257,Brook Ave & E 141 St,4.075,165.86666666666667,17
+258,Brook Ave & E 148 St,3.725,126.55,19
+259,Brook Ave & E 157 St,3.975,86.5,20
+260,Brooklyn Bridge Park - Pier 2,4.325,454.75,24
+261,Brunswick & 6th,4.225,474.1,13
+262,Brunswick St,4.2,459.55,22
+263,Bulova Ave & Brooklyn Queens Expressway W,4.325,409.2,17
+264,Bus Slip & State St,4.125,639.95,65
+265,Bushwick Ave & Dekalb Ave,4.3,221.6,24
+266,Bushwick Ave & Forrest St,4.35,455.8,20
+267,Bushwick Ave & Furman Ave,4.25,108.7,29
+268,Bushwick Ave & Harman St,4.191666666666666,221.71666666666667,23
+269,Bushwick Ave & Linden St,4.2,258.4,29
+270,Bushwick Ave & McKibbin St,4.4,499.05,20
+271,Bushwick Ave & Stagg St,4.45,459.8,19
+272,Butler St & Court St,4.25,477.5,35
+273,Cabrini Blvd & W 177 St,4.0,265.8,19
+274,Cadman Plaza E & Red Cross Pl,4.05,482.5,38
+275,Cadman Plaza E & Tillary St,4.2,453.55,52
+276,Calyer St & Jewel St,4.375,445.7,37
+277,Cambridge Pl & Gates Ave,4.15,405.35,17
+278,Canal St & Rutgers St,4.2,513.6,44
+279,Carroll St & 5 Ave,4.225,668.85,24
+280,Carroll St & 6 Ave,4.225,564.35,20
+281,Carroll St & Bond St,4.325,482.1,24
+282,Carroll St & Columbia St,4.175,488.2,37
+283,Carroll St & Franklin Ave,4.325,357.35,18
+284,Carroll St & Smith St,4.275,328.7,38
+285,Carroll St & Washington Ave,4.375,393.6,26
+286,Cathedral Pkwy & Broadway,4.075,393.35,22
+287,Catherine St & Monroe St,4.2,877.5,32
+288,Cauldwell Ave & E 161 St,4.0,73.85,16
+289,Cedar St & Evergreen Ave,4.275,458.8,25
+290,Cedar St & Myrtle Ave,4.325,483.9,27
+291,Center Blvd & 48 Ave,4.15,721.35,22
+292,Center Blvd & 51 Ave,4.2,673.25,17
+293,Central Ave & Covert St,4.258333333333334,134.88333333333333,28
+294,Central Ave & Decatur St,4.35,113.4,25
+295,Central Ave & Flushing Ave,4.3,447.45,21
+296,Central Ave & Himrod St,4.325,443.2,23
+297,Central Ave & Melrose St,4.325,411.85,14
+298,Central Ave & Starr Street,4.3,444.7,5
+299,Central Ave & Woodbine St,4.233333333333333,234.78333333333333,16
+300,Central Park North & Adam Clayton Powell Blvd,4.375,421.05,31
+301,Central Park S & 6 Ave,4.225,1388.3,66
+302,Central Park W & W 91 St,4.15,770.8,43
+303,Central Park West & W 85 St,4.075,804.85,29
+304,Centre St & Chambers St,4.275,764.45,51
+305,Centre St & Seneca Ave,4.2,168.9,22
+306,Centre St & Worth St,4.25,877.85,73
+307,Charlotte St & Boston Rd,3.525,36.5,17
+308,Cherry St,4.375,808.7,32
+309,Christ Hospital,4.45,275.0,22
+310,Christopher St & Greenwich St,4.2,1352.5,72
+311,City Hall,3.95,658.4,20
+312,Clay Ave & Claremont Pkwy,3.55,29.45,19
+313,Clay Ave & E 173 St,3.225,21.25,17
+314,Clermont Ave & Lafayette Ave,4.125,454.7,45
+315,Clermont Ave & Park Ave,4.3,400.6,18
+316,Cleveland Pl & Spring St,4.175,1652.55,31
+317,Cliff St & Fulton St,4.175,516.7,58
+318,Clinton Ave & Flushing Ave,4.225,414.6,19
+319,Clinton Ave & Myrtle Ave,4.05,440.9,29
+320,Clinton St & 4 Place,4.325,548.5,23
+321,Clinton St & Centre St,4.375,477.15,20
+322,Clinton St & Grand St,4.275,1011.8,65
+323,Clinton St & Joralemon St,4.325,381.8,47
+324,Clinton St & Tillary St,4.1,419.65,32
+325,Clinton St & Union St,4.2,517.35,37
+326,Coffey St & Conover St,4.175,373.55,29
+327,College Ave & E 170 St,3.6,47.6,19
+328,Columbia Heights & Cranberry St,4.1,759.45,34
+329,Columbia St & Degraw St,4.25,355.05,19
+330,Columbia St & Kane St,4.225,409.3,18
+331,Columbia St & Lorraine St,4.25,563.9,36
+332,Columbia St & Rivington St,4.4,1024.9,39
+333,Columbia St & W 9 St,4.275,581.2,20
+334,Columbus Ave & W 103 St,4.375,346.45,38
+335,Columbus Ave & W 72 St,4.05,987.15,60
+336,Columbus Drive,4.075,576.5,13
+337,Commerce St & Van Brunt St,4.25,548.35,17
+338,Communipaw & Berry Lane,4.275,131.05,11
+339,Concord St & Bridge St,4.175,514.35,18
+340,Concourse Village East & E 158 St,3.85,140.1,30
+341,Concourse Village West & E 156 St,3.875,153.65,18
+342,Convent Ave & W 135 St,4.125,518.95,28
+343,Convent Ave & W 151 St,4.25,385.5,23
+344,Cooper Square & Astor Pl,4.2,2018.35,85
+345,Court St & Nelson St,4.325,433.05,32
+346,Court St & State St,4.3,384.0,31
+347,Crescent St & 30 Ave,4.275,554.6,20
+348,Crescent St & 34 Ave,4.3,488.85,25
+349,Crescent St & 35 Ave,4.3,502.0,24
+350,Crescent St & Broadway,4.2,577.6,17
+351,Crescent St & Ditmars Blvd,4.275,600.55,19
+352,Crotona Park East & E 173 St,3.75,34.3,15
+353,Cumberland St & Lafayette Ave,4.175,397.1,25
+354,Cypress Ave & George St,4.2,164.45,19
+355,Cypress Ave & Palmetto St,4.325,179.0,24
+356,Dawson St & Intervale Ave,4.0,34.0,16
+357,DeKalb Ave & Franklin Ave,4.125,409.75,15
+358,DeKalb Ave & Hudson Ave,4.2,408.95,64
+359,DeKalb Ave & S Portland Ave,4.175,425.75,22
+360,DeKalb Ave & Vanderbilt Ave,4.05,425.5,16
+361,Dean St & Franklin Ave,4.325,427.75,17
+362,Dean St & Hoyt St,4.175,546.2,73
+363,Degraw St & Hoyt St,4.375,374.8,24
+364,Degraw St & Smith St,4.325,341.75,27
+365,Delancey St & Eldridge St,4.258333333333334,876.7,31
+366,Devoe St & Lorimer St,4.35,552.35,16
+367,Devoe St & Morgan Ave,4.45,478.05,18
+368,Dey St,3.85,230.15,18
+369,Ditmars Blvd & 43 St,4.15,603.4,25
+370,Ditmars Blvd & 79 St,4.125,136.8,23
+371,Division Ave & Marcy Ave,4.35,859.85,31
+372,Division St & Bowery,4.1,1278.7,42
+373,Dixon Mills,4.175,479.6,18
+374,Dock 72 Way & Market St,4.325,318.0,22
+375,Douglass St & 3 Ave,4.125,711.25,31
+376,Douglass St & 4 Ave,4.125,703.3,47
+377,Driggs Ave & N 9 St,4.125,775.95,45
+378,Duffield St & Willoughby St,4.05,428.4,46
+379,Dwight St & Van Dyke St,4.1,487.15,23
+380,E 10 St & Avenue A,4.35,838.1,102
+381,E 102 St & 1 Ave,4.3,540.25,19
+382,E 102 St & Park Ave,4.275,266.35,32
+383,E 106 St & 1 Ave,4.425,327.8,23
+384,E 106 St & Lexington Ave,4.2,260.25,27
+385,E 106 St & Madison Ave,4.325,247.3,25
+386,E 11 St & 1 Ave,4.3,1520.6,60
+387,E 11 St & Avenue B,4.35,935.9,62
+388,E 114 St & 1 Ave,4.375,340.8,24
+389,E 115 St & Lexington Ave,4.275,283.95,22
+390,E 115 St & Madison Ave,4.35,442.1,30
+391,E 116 St & 2 Ave,4.25,349.55,27
+392,E 118 St & Madison Ave,4.375,481.8,26
+393,E 12 St & 3 Ave,4.25,2116.3,0
+394,E 12 St & Ave C,4.4,951.8,38
+395,E 123 St & Lexington Ave,4.3,500.9,27
+396,E 128 St & 3 Ave,4.125,566.25,19
+397,E 128 St & Madison Ave,4.225,586.5,16
+398,E 13 St & 2 Ave,4.3,2002.65,50
+399,E 13 St & Avenue A,4.325,978.8,86
+400,E 132 St & Madison Ave,4.125,619.8,17
+401,E 134 St & Walnut Ave,4.058333333333334,36.7,14
+402,E 135 St & St Ann's Ave,4.15,163.1,21
+403,E 138 St & 5 Av,4.091666666666667,582.5166666666667,22
+404,E 138 St & Cypress Ave,3.7,66.25,23
+405,E 138 St & Grand Concourse,4.1,235.15,20
+406,E 138 St & Willow Ave,3.8,63.15,18
+407,E 14 St & Avenue B,4.375,940.6,37
+408,E 141 St & Jackson Ave,3.925,78.2,15
+409,E 141 St & St Ann's Ave,4.05,141.45,15
+410,E 142 St & 3 Ave,4.1,192.1,15
+411,E 144 St & Brook Ave,3.95,196.85,18
+412,E 147 St & Bergen Ave,4.025,194.5,23
+413,E 149 St & Eagle Ave,3.925,88.3,17
+414,E 149 St & Jackson Ave,3.875,72.05,22
+415,E 149 St & Morris Ave,4.025,119.55,35
+416,E 149 St & Park Ave,3.85,140.0,25
+417,E 153 St & E 157 St,3.8,151.45,15
+418,E 155 St & Courtlandt Ave,3.8,142.55,15
+419,E 156 & Brook Ave,3.975,89.55,17
+420,E 157 St & River Ave,3.75,160.45,18
+421,E 158 St & Melrose Ave,3.9,138.0,22
+422,E 16 St & 5 Ave,4.25,1970.7,57
+423,E 16 St & Irving Pl,4.325,1761.15,72
+424,E 160 St & Tinton Ave,4.0,61.35,19
+425,E 161 St & Park Ave,3.925,132.85,15
+426,E 163 St & Tiffany St,3.975,30.85,15
+427,E 163 St & Union Ave,4.0,44.05,22
+428,E 165 St & Clay Ave,3.825,84.5,19
+429,E 165 St & Fox St,4.1,24.9,26
+430,E 167 St & Franklin Ave,3.95,59.85,17
+431,E 169 St & Fox St,4.0,18.9,18
+432,E 169 St & Webster Ave,3.75,61.45,21
+433,E 170 St & Clay Ave,3.625,59.1,20
+434,E 170 St & Webster Ave,3.725,51.65,17
+435,E 171 St & Webster Ave,3.6,29.85,19
+436,E 174 St & Walton Ave,3.55,41.0,25
+437,E 2 St & Avenue A,4.25,1110.15,35
+438,E 2 St & Avenue B,4.275,1036.25,80
+439,E 2 St & Avenue C,4.35,1054.8,83
+440,E 20 St & 2 Ave,4.45,1339.75,84
+441,E 23 St & 1 Ave,4.375,1220.4,22
+442,E 25 St & 1 Ave,4.35,1322.75,28
+443,E 25 St & 2 Ave,4.35,1222.1,75
+444,E 27 St & 1 Ave,4.35,1416.4,84
+445,E 27 St & Park Ave S,4.3,1337.2,67
+446,E 30 St & Park Ave S,4.35,1245.5,56
+447,E 33 St & 5 Ave,4.25,1535.85,53
+448,E 39 St & Lexington Ave,4.3,950.25,57
+449,E 4 St & 2 Ave,4.3,849.15,76
+450,E 44 St & Lexington Ave,4.275,1160.75,48
+451,E 45 St & 3 Ave,4.25,1000.95,42
+452,E 47 St & 2 Ave,4.175,867.65,97
+453,E 48 St & 3 Ave,4.175,974.45,75
+454,E 51 St & 1 Ave,4.15,886.1,30
+455,E 51 St & 2 Ave,4.2,930.45,37
+456,E 51 St & Lexington Ave,4.3,734.6,74
+457,E 53 St & Lexington Ave,4.325,876.75,56
+458,E 53 St & Madison Ave,4.325,947.15,48
+459,E 54 St & 1 Ave,4.175,913.05,40
+460,E 56 St & Madison Ave,4.325,1206.05,30
+461,E 6 St & Avenue B,4.325,893.2,92
+462,E 6 St & Avenue D,4.4,1343.55,44
+463,E 60 St & York Ave,4.3,695.3,31
+464,E 63 St & 3 Ave,4.175,1209.15,54
+465,E 65 St & 2 Ave,4.275,1217.75,28
+466,E 66 St & Madison Ave,4.325,1223.6,24
+467,E 67 St & Park Ave,4.275,1148.65,36
+468,E 68 St & 3 Ave,4.375,880.95,35
+469,E 68 St & Madison Ave,4.35,1054.45,53
+470,E 72 St & York Ave,4.375,656.95,30
+471,E 75 St & 3 Ave,4.2,1114.45,37
+472,E 77 St & 3 Ave,4.25,1041.45,45
+473,E 81 St & 3 Ave,4.15,930.0,47
+474,E 81 St & Park Ave,4.225,846.75,46
+475,E 81 St & York Ave,4.3,815.9,45
+476,E 82 St & East End Ave,4.325,992.55,26
+477,E 84 St & 1 Ave,4.25,774.95,25
+478,E 84 St & Park Ave,4.175,885.75,41
+479,E 85 St & 3 Ave,4.175,919.4,28
+480,E 88 St & Park Ave,4.075,492.45,35
+481,E 89 St & 3 Ave,4.125,564.8,37
+482,E 89 St & York Ave,4.275,789.0,34
+483,E 9 St & Avenue C,4.375,987.25,46
+484,E 93 St & 2 Ave,4.075,572.0,72
+485,E 95 St & 3 Ave,4.05,533.8,28
+486,E 97 St & 3 Ave,4.225,316.35,28
+487,E 97 St & Madison Ave,4.05,453.45,40
+488,E 98 St & Park Ave,4.35,538.2,22
+489,Edgecombe Ave & W 141 St,4.15,361.31666666666666,20
+490,Edgecombe Ave & W 145 St,4.225,321.65,28
+491,Edgecombe Ave & W 150 St,4.25,343.3,18
+492,Eldert St & Bushwick Ave,4.233333333333333,155.31666666666666,21
+493,Emerson Pl & Myrtle Ave,4.2,419.45,54
+494,Engert Ave & McGuinness Blvd,4.45,382.3,18
+495,Evergreen Ave & Noll St,4.325,439.95,24
+496,FDR Drive & E 35 St,4.25,649.55,112
+497,Faile St & Garrison Ave,3.95,24.05,18
+498,Fairview Ave & Linden St,4.275,240.65,19
+499,Flushing Ave & Vanderbilt Ave,4.25,413.9,21
+500,Flushing Ave & Woodward Ave,4.225,292.8,20
+501,Forest Ave & Summerfield St,4.175,177.05,21
+502,Forsyth St & Broome St,4.25,779.55,62
+503,Forsyth St & Canal St,4.225,1044.8,25
+504,Forsyth St & Grand St,4.275,1063.2,55
+505,Fort Washington Ave & W 173 St,4.025,235.25,21
+506,Franklin Ave & E 169 St,3.975,23.5,16
+507,Franklin Ave & Myrtle Ave,4.175,379.7,22
+508,Franklin Ave & St Marks Ave,4.275,430.9,23
+509,Franklin St & Dupont St,4.225,411.05,25
+510,Franklin St & W Broadway,4.1,820.5,23
+511,Frederick Douglass Blvd & Harlem River Dr,4.225,137.1,17
+512,Frederick Douglass Blvd & W 112 St,4.15,549.05,28
+513,Frederick Douglass Blvd & W 115 St,4.1,561.45,27
+514,Frederick Douglass Blvd & W 117 St,4.0,602.75,29
+515,Frederick Douglass Blvd & W 129 St,4.125,681.25,25
+516,Frederick Douglass Blvd & W 145 St,4.2,384.9,26
+517,Front St & Gold St,4.2,391.95,33
+518,Frost St & Debevoise Ave,4.525,336.9,22
+519,Ft. Hamilton Pkwy & E 5 St,4.15,231.1,21
+520,Fulton Ave & E 168 St,3.725,34.5,21
+521,Fulton Ave & E 172 St,3.55,34.75,18
+522,Fulton Ave & St. Paul's Pl,3.675,20.1,18
+523,Fulton St & Broadway,4.1,596.8,46
+524,Fulton St & Irving Pl,4.15,344.95,31
+525,Fulton St & Utica Ave,4.15,290.8,17
+526,Garfield Pl & 8 Ave,4.225,514.5,25
+527,Garrison Ave & Manida St,3.975,20.05,30
+528,George St & Wilson Ave,4.325,416.15,18
+529,Gerard Ave & E 146 St,3.975,162.3,18
+530,Gerard Ave & E 164 St,3.8,116.9,19
+531,Gerard Ave & E 165 St,3.875,124.05,20
+532,Gerard Ave & McClellan St,3.675,103.2,28
+533,Glenwood Ave,4.375,192.35,15
+534,Graham Ave & Conselyea St,4.3,449.3,27
+535,Graham Ave & Grand St,4.375,334.2,26
+536,Graham Ave & Herbert St,4.375,402.05,24
+537,Graham Ave & Withers St,4.275,446.1,17
+538,Grand Army Plaza & Central Park S,4.325,1246.55,88
+539,Grand Ave & Bergen St,4.2,375.85,19
+540,Grand Concourse & E 156 St,3.825,160.7,21
+541,Grand Concourse & E 164 St,3.75,122.4,17
+542,Grand Concourse & E 166 St,3.775,123.05,20
+543,Grand Concourse & E 167 St,3.8,97.4,27
+544,Grand Concourse & E 171 St,3.875,39.7,24
+545,Grand Concourse & East Mount Eden Ave,3.475,42.1,18
+546,Grand St,3.85,556.95,16
+547,Grand St & Havemeyer St,4.3,690.8,23
+548,Greene Av & Myrtle Av,4.275,346.35,28
+549,Greene Ave & Grandview Ave,4.283333333333333,195.78333333333333,17
+550,Greene Ave & Nostrand Ave,4.1,282.45,19
+551,Greene Ave & Throop Ave,4.35,317.85,17
+552,Greenpoint Ave & Manhattan Ave,4.275,319.95,22
+553,Greenwich St & Hubert St,4.225,857.25,33
+554,Greenwich St & W Houston St,4.3,1118.95,80
+555,Grove St & Broadway,4.108333333333333,316.21666666666664,27
+556,Halsey St & Broadway,4.208333333333333,162.51666666666668,19
+557,Halsey St & Evergreen Ave,4.25,149.9,18
+558,Halsey St & Tompkins Ave,4.25,295.85,13
+559,Hamilton Park,4.15,481.55,24
+560,Hamilton Pl & W 140 St,4.125,512.8,19
+561,Hancock St & Bedford Ave,4.275,360.0,22
+562,Hancock St & Wyckoff Ave,4.3,220.25,16
+563,Hanson Pl & Ashland Pl,4.225,401.45,35
+564,Harborside,4.05,578.65,29
+565,Harlem River Dr & W 155 St,4.225,298.0,21
+566,Harman St & Seneca Ave,4.325,251.05,17
+567,Harrison Pl & Porter Ave,4.275,508.5,20
+568,Harrison St & Hudson St,4.1,837.6,36
+569,Hazen St & 20 Ave,4.125,139.05,23
+570,Heights Elevator,4.275,252.8,17
+571,Henry St & Atlantic Ave,4.225,290.55,20
+572,Henry St & Bay St,4.275,482.75,17
+573,Henry St & Degraw St,4.2,495.6,22
+574,Henry St & Grand St,4.425,618.4,32
+575,Henry St & Middagh St,4.075,733.95,29
+576,Henry St & W 9 St,4.35,545.35,19
+577,Hicks St & Montague St,4.025,379.7,14
+578,Hilltop,4.3,295.65,26
+579,Hoboken Ave at Monmouth St,4.3,270.25,31
+580,Home St & Westchester Ave,3.925,20.7,20
+581,Hope St & Union Ave,4.225,633.65,21
+582,Hoyt St & Warren St,4.275,447.1,35
+583,Hudson St & W 13 St,4.175,1505.75,41
+584,Humboldt St & Varet St,4.4,450.25,37
+585,Hunts Point Ave & Bryant Ave,4.15,18.7,17
+586,Icahn Stadium,4.225,167.6,20
+587,India St & Manhattan Ave,4.325,308.65,49
+588,Intervale Ave & Kelly St,4.225,20.35,19
+589,Intervale Ave & Westchester Ave,4.05,29.5,25
+590,Inwood Ave & W 170 St,3.575,34.5,21
+591,Irving Ave & DeKalb Ave,4.275,336.75,27
+592,Irving Ave & Halsey St,4.375,206.95,18
+593,Irving Ave & Harman St,4.25,303.0833333333333,18
+594,Irving Ave & Jefferson St,4.275,293.75,18
+595,Irving Ave & Palmetto St,4.3,260.6,17
+596,Jackson Ave & 46 Rd,4.3,510.05,24
+597,Jackson Square,4.15,82.6,17
+598,Jackson St & Leonard St,4.4,595.4,17
+599,Jay St & York St,4.0,434.9,36
+600,Jefferson St & Cypress Ave,4.3,309.05,24
+601,Jerome Ave & Anderson Ave,3.9,121.05,19
+602,Jerome Ave & E 164 St,3.85,114.4,17
+603,Jerome Ave & Ogden Ave,4.0,113.5,19
+604,Jersey & 3rd,4.15,574.05,14
+605,Jersey & 6th St,4.125,555.55,13
+606,John St & William St,4.2,567.85,41
+607,Johnson St & Gold St,4.175,493.0,36
+608,Journal Square,4.075,234.0,16
+609,Kent St & McGuinness Blvd,4.325,337.25,20
+610,Kingsland Ave & Nassau Ave,4.425,352.8,23
+611,Kingston Ave & Herkimer St,4.275,332.1,21
+612,Knickerbocker Ave & George St,4.325,432.45,20
+613,Knickerbocker Ave & Halsey St,4.3,196.35,18
+614,Knickerbocker Ave & Thames St,4.3,503.4,18
+615,Kosciuszko St & Nostrand Ave,4.15,309.85,17
+616,Kosciuszko St & Tompkins Ave,4.325,231.3,18
+617,LaGuardia Pl & W 3 St,4.275,1510.05,51
+618,Lafayette Ave & Classon Ave,4.1,454.9,25
+619,Lafayette Ave & Hunts Point Ave,3.875,21.2,18
+620,Lafayette Ave & St James Pl,4.125,548.55,38
+621,Lafayette Park,4.4,127.2,13
+622,Lafayette St & E 8 St,4.175,2042.45,95
+623,Lafayette St & Jersey St,4.225,1405.45,56
+624,Laight St & Hudson St,4.225,813.45,79
+625,Lawrence St & Willoughby St,3.925,417.15,35
+626,Lefferts Pl & Franklin Ave,4.225,405.15,20
+627,Lenox Ave & W 111 St,4.3,580.4,30
+628,Lenox Ave & W 115 St,4.25,582.8,28
+629,Lenox Ave & W 117 St,4.125,548.2,27
+630,Lenox Ave & W 126 St,3.875,762.65,29
+631,Lenox Ave & W 130 St,3.975,571.2,24
+632,Lenox Ave & W 133 St,4.016666666666667,532.15,21
+633,Lenox Ave & W 144 St,3.9916666666666667,268.5833333333333,19
+634,Lenox Ave & W 146 St,4.05,271.8833333333333,23
+635,Leonard Gordon Park,4.325,190.6,13
+636,Leonard St & Boerum St,4.375,432.55,23
+637,Leonard St & Maujer St,4.425,480.7,22
+638,Leonard St & Nassau Ave,4.35,411.85,34
+639,Lewis Ave & Decatur St,4.15,336.9,19
+640,Lewis Ave & Kosciuszko St,4.25,308.85,20
+641,Lexington Ave & E 111 St,4.4,351.35,26
+642,Lexington Ave & E 120 St,4.325,478.9,27
+643,Lexington Ave & E 127 St,4.275,483.4,32
+644,Lexington Ave & E 128 St,4.225,530.9,23
+645,Lexington Ave & E 24 St,4.35,1156.45,78
+646,Lexington Ave & E 26 St,4.3,1308.35,77
+647,Lexington Ave & E 29 St,4.275,1418.85,52
+648,Lexington Ave & E 36 St,4.325,1018.65,22
+649,Liberty Light Rail,4.25,433.35,22
+650,Lincoln Ave & E 134 St,4.316666666666666,164.11666666666667,17
+651,Lincoln Ave & E 138 St,4.15,192.2,24
+652,Lincoln Park,4.325,135.85,18
+653,Lincoln Pl & Classon Ave,4.275,453.45,25
+654,Linden St & Knickerbocker Ave,4.3,293.85,15
+655,Lispenard St & Broadway,4.225,805.95,73
+656,Longwood Ave & Southern Blvd,4.0,32.2,22
+657,Lorimer St & Broadway,4.375,463.0,26
+658,Louis Nine Blvd & Intervale Ave,3.875,21.35,19
+659,MacDougal St & Washington Sq,4.25,1433.2,25
+660,Macon St & Nostrand Ave,4.275,326.85,22
+661,Madison Av & E 51 St,4.275,1037.75,41
+662,Madison Ave & E 120 St,4.325,553.4,29
+663,Madison St & Clinton St,4.3,545.2,40
+664,Madison St & Cypress Ave,4.325,144.7,17
+665,Madison St & Evergreen Ave,4.225,251.2,15
+666,Madison St & Forest Ave,4.325,180.8,24
+667,Madison St & Seneca Ave,4.25,165.4,21
+668,Madison St & Woodward Ave,4.3,188.75,20
+669,Manhattan Av & Leonard St,4.35,514.0,15
+670,Manila & 1st,4.05,579.5,17
+671,Marcus Garvey Blvd & Macon St,4.175,317.1,18
+672,Marcy Ave & Lafayette Ave,4.275,240.85,22
+673,Marin Light Rail,4.05,613.9,27
+674,Market St & Cherry St,4.325,1093.25,44
+675,McGinley Square,4.4,164.2,22
+676,McGuinness Blvd & Eagle St,4.35,446.8,39
+677,McKibbin St & Bogart St,4.3,475.25,30
+678,McKibbin St & Manhattan Ave,4.375,460.0,22
+679,Melrose Ave & E 150 St,4.0,142.1,29
+680,Melrose Ave & E 154 St,3.825,150.65,18
+681,Menahan St & Central Ave,4.275,249.95,21
+682,Menahan St & Onderdonk Ave,4.4,162.15,19
+683,Menahan St & Seneca Ave,4.35,179.8,13
+684,Menahan St & Wyckoff Ave,4.225,222.45,18
+685,Mercer St & Spring St,4.275,1489.6,63
+686,Meserole Ave & Manhattan Ave,4.425,574.45,22
+687,Metropolitan Ave & Bedford Ave,4.275,681.8,50
+688,Metropolitan Ave & Meeker Ave,4.25,704.6,22
+689,Metropolitan Ave & Stewart Ave,4.275,360.75,20
+690,Metropolitan Ave & Vandervoort Ave,4.325,390.15,24
+691,Milton St & Franklin St,4.275,362.9,29
+692,Moffat St & Bushwick,4.158333333333333,128.66666666666666,17
+693,Monmouth and 6th,4.225,430.3,13
+694,Monroe St & Bedford Ave,4.1,414.2,18
+695,Monroe St & Classon Ave,4.2,360.55,17
+696,Monroe St & Tompkins Ave,4.225,327.9,14
+697,Montgomery St,4.15,573.8,14
+698,Montgomery St & Franklin Ave,4.4,398.5,19
+699,Montrose Ave & Bushwick Ave,4.275,474.85,41
+700,Morgan Ave & Lombardy St,4.45,318.1,29
+701,Morgan Ave & Maspeth Ave,4.475,245.65,25
+702,Morningside Ave & W 123 St,4.05,706.6,31
+703,Morningside Dr & Amsterdam Ave,4.125,639.65,34
+704,Morris Ave & E 142 St,4.075,193.6,22
+705,Morris Ave & E 153 St,3.85,149.3,18
+706,Morris Ave & E 163 St,3.9,143.25,19
+707,Morris Ave & E 171 St,3.8,44.9,20
+708,Morris Ave & McClellan St,3.85,111.3,20
+709,Morris Canal,3.975,539.55,13
+710,Motorgate,4.35,808.8,34
+711,Mott St & Prince St,4.2,1411.15,36
+712,Murray St & Greenwich St,4.325,525.9,48
+713,Myrtle Ave & Grove St,4.225,294.0,21
+714,Myrtle Ave & Linden St,4.225,230.35,23
+715,Myrtle Ave & Marcy Ave,4.325,201.0,22
+716,Myrtle Ave & St Edwards St,4.175,497.9,55
+717,N 11 St & Kent Ave,4.1,606.65,26
+718,N 12 St & Bedford Ave,4.1,706.35,46
+719,N 15 St & Wythe Ave,4.2,583.75,52
+720,Nassau Ave & Russell St,4.5,463.55,47
+721,Nassau St & Navy St,4.225,355.1,57
+722,Nelson Ave & 167 St,4.1,78.8,19
+723,Newark Ave,4.0,659.1,20
+724,Newport PATH,3.925,494.05,16
+725,Newport Pkwy,3.975,500.3,10
+726,Newton Rd & 44 St,4.35,640.7,17
+727,Newtown Ave & 23 St,4.3,630.05,26
+728,Norfolk St & Broome St,4.175,936.65,50
+729,Norman St & Wyckoff Ave,4.375,156.7,11
+730,North Moore St & Greenwich St,4.125,800.35,26
+731,Nostrand Ave & Myrtle Ave,4.25,244.05,19
+732,Oakland Ave,4.375,234.05,26
+733,Ogden Ave & Merriam Ave,4.05,57.95,19
+734,Ogden Ave & W 165 St,3.975,150.2,19
+735,Old Broadway & W 133 St,4.15,560.25,18
+736,Old Slip & South St,4.0,686.55,87
+737,Onderdonk Ave & Dekalb Ave,4.35,327.35,15
+738,Onderdonk Ave & Gates Ave,4.3,181.0,16
+739,Pacific St & Classon Ave,4.225,461.55,20
+740,Pacific St & Nevins St,4.25,435.4,16
+741,Park Ave & E 124 St,4.25,537.45,34
+742,Park Ave & E 162 St,3.9,144.05,19
+743,Park Ave & Marcus Garvey Blvd,4.35,451.8,21
+744,Park Ave & St Edwards St,4.25,433.1,52
+745,Park Pl & Church St,4.35,554.0,51
+746,Paulus Hook,3.9,500.05,14
+747,Perry St & Bleecker St,4.175,1167.05,72
+748,Pershing Field,4.3,178.4,17
+749,Pierrepont St & Monroe Pl,4.125,399.0,22
+750,Pike St & E Broadway,4.15,798.95,30
+751,Pike St & Monroe St,4.275,675.15,24
+752,Pioneer St & Richards St,4.275,520.8,23
+753,Pioneer St & Van Brunt St,4.2,448.0,38
+754,Plaza Dr & W 170 St,3.5,34.25,29
+755,Pleasant Ave & E 120 St,4.3,339.15,13
+756,Prospect Ave & E 151 St,3.925,63.5,20
+757,Prospect Ave & E 167 St,4.0,22.5,18
+758,Prospect Ave & Jennings St,3.625,20.8,20
+759,Prospect Ave & Longwood Ave,3.95,55.65,28
+760,Prospect Park W & 20 St,4.225,299.9,22
+761,Prospect Park West & 8 St,4.425,361.3,20
+762,Prospect Pl & 6 Ave,4.075,655.7,22
+763,Prospect Pl & Underhill Ave,4.225,364.95,22
+764,Pulaski St & Marcus Garvey Blvd,4.375,178.15,15
+765,Putnam Ave & Knickerbocker Ave,4.375,230.7,26
+766,Putnam Ave & Throop Ave,4.2,328.8,20
+767,Putnam Ave & Wyckoff Ave,4.3,201.95,23
+768,Queens Plaza North & Crescent St,4.25,318.2,30
+769,Reade St & Broadway,4.35,1042.75,59
+770,Richards St & Delavan St,4.225,578.55,18
+771,River Ave & E 151 St,3.7,164.65,25
+772,River Ave & E 153 St,3.725,157.6,24
+773,River Ave & McClellan St,3.825,108.1,15
+774,Riverside Blvd & W 67 St,4.125,1256.9,8
+775,Riverside Dr & W 104 St,4.175,293.6,49
+776,Riverside Dr & W 138 St,4.275,494.35,26
+777,Riverside Dr & W 145 St,4.075,386.0,31
+778,Riverside Dr & W 148 St,4.075,400.0,22
+779,Riverside Dr & W 153 St,4.225,331.85,19
+780,Riverside Dr & W 72 St,4.1,1324.05,39
+781,Riverside Dr & W 78 St,4.175,1362.4,74
+782,Riverside Dr & W 91 St,4.225,727.1,55
+783,Riverview Park,4.225,297.35,18
+784,Rivington St & Chrystie St,4.275,1051.55,58
+785,Rivington St & Ridge St,4.275,880.55,54
+786,Rockaway Ave & Bainbridge St,4.2,144.65,23
+787,Roebling St & N 4 St,4.25,751.9,21
+788,Roosevelt Island Tramway,4.175,273.5,40
+789,S 3 St & Bedford Ave,4.25,1103.15,18
+790,S 4 St & Rodney St,4.3,863.45,19
+791,S 4 St & Wythe Ave,4.225,897.95,22
+792,S 5 Pl & S 5 St,4.3,1065.65,32
+793,S Portland Ave & Hanson Pl,4.225,411.95,22
+794,Sands St Gate,4.125,338.0,18
+795,Scholes St & Manhattan Ave,4.35,356.85,32
+796,Seneca Ave & Irvine St,4.05,20.95,17
+797,Shakespeare Ave & W 169 St,3.825,37.55,17
+798,Sheridan Ave & E 172 St,3.8,39.95,23
+799,Sherman Ave & E 166 St,3.775,103.55,18
+800,Shore Blvd & Astoria Park,4.3,297.1,29
+801,Sigourney St & Columbia St,4.225,502.5,18
+802,Smith St & 3 St,4.35,506.1,24
+803,Smith St & 9 St,4.375,397.5,19
+804,Somers St & Broadway,4.0,83.15,28
+805,South St & Gouverneur Ln,4.125,694.2,41
+806,South St & Whitehall St,4.025,620.25,54
+807,Southern Blvd & Avenue St. John,4.1,36.55,17
+808,Southern Blvd & E 142 St,3.725,60.4,22
+809,Southern Blvd & E 149 St,3.775,56.0,25
+810,Southern Blvd & E 172 St,3.55,32.3,18
+811,Southern Blvd & E 174 St,3.825,30.85,27
+812,Southern Blvd & E 175 St,3.55,32.7,15
+813,Southern Blvd & Tiffany St,3.975,30.7,18
+814,Southpoint Park,4.275,878.1,34
+815,Spring St & Hudson St,4.4,961.85,38
+816,St Ann's Ave & Westchester Ave,4.05,87.65,16
+817,St James Pl & Oliver St,4.05,940.95,47
+818,St James Pl & Pearl St,4.275,845.7,23
+819,St Johns Pl & Washington Ave,4.175,474.3,28
+820,St Mary's St & Jackson Ave,3.9,80.95,14
+821,St Nicholas Ave & Manhattan Ave,4.1,672.45,29
+822,St Nicholas Ave & W 134 St,4.075,493.3,23
+823,St Nicholas Ave & W 137 St,4.1,306.8,19
+824,St Nicholas Ave & W 150 St,4.25,361.7,23
+825,St. Ann's Av & Bruckner Blvd,4.25,159.15,14
+826,St. Ann's Ave & E 144 St,3.9,136.05,23
+827,St. Nicholas Ave & W 126 St,4.075,599.3,19
+828,St. Nicholas Ave & W 155 St,4.25,342.35,22
+829,St. Nicholas Ave & W 157 St,4.275,323.55,20
+830,St. Nicholas Terrace & Convent Ave,4.15,363.21666666666664,24
+831,Stagg St & Morgan Ave,4.3,509.2,23
+832,Stagg St & Union Ave,4.325,510.85,28
+833,Stanhope St & Fairview Ave,4.35,268.55,15
+834,Stanton St & Chrystie St,4.25,1203.85,45
+835,Stanton St & Mangin St,4.375,1000.7,19
+836,Stanton St & Norfolk St,4.275,1002.55,41
+837,Steinway St & 19 Ave,4.175,588.3,20
+838,Steinway St & 21 Ave,4.175,613.25,20
+839,Steinway St & 23 Ave,4.225,601.4,15
+840,Steinway St & 28 Ave,4.175,721.15,24
+841,Steinway St & Broadway,4.25,434.55,26
+842,Steinway St & Ditmars Blvd,4.2,609.15,21
+843,Stephen St & Seneca Ave,4.175,188.95,13
+844,Sterling Pl & Bedford Ave,4.25,386.2,25
+845,Stewart Ave & Johnson Ave,4.25,507.95,16
+846,Sullivan Pl & Bedford Ave,4.35,328.95,17
+847,Sunken Meadow Comfort Station,3.9,30.25,22
+848,Suydam St & Broadway,4.2,233.25,31
+849,Thompson St & Bleecker St,4.2,1584.35,57
+850,Throop Ave & Myrtle Ave,4.35,371.65,21
+851,Tinton Ave & E 165 St,4.075,34.8,18
+852,Underhill Ave & Lincoln Pl,4.175,565.75,23
+853,Union Ave & Jackson St,4.35,620.15,18
+854,Union Ave & N 12 St,4.325,647.1,38
+855,Union Ave & Wallabout St,4.5,190.95,29
+856,Union St,4.2,74.3,18
+857,Union St & 4 Ave,4.15,635.45,27
+858,Union St & Bedford Ave,4.3,326.95,23
+859,University Ave & W 168 St,4.15,149.7,16
+860,University Pl & E 14 St,4.225,2672.05,52
+861,Van Brunt St & Wolcott St,4.2,358.5,33
+862,Van Sinderen Ave & Truxton St,4.075,81.35,20
+863,Van Vorst Park,4.025,661.8,21
+864,Vernon Blvd & 10 St,4.275,362.9,39
+865,Vernon Blvd & 31 Ave,4.2,389.05,21
+866,Vernon Blvd & 47 Rd,4.3,661.4,19
+867,Vernon Blvd & 50 Ave,4.25,468.55,42
+868,Verona Pl & Fulton St,4.425,300.3,18
+869,Vesey Pl & River Terrace,3.95,568.55,54
+870,W 10 St & Washington St,4.175,1172.25,65
+871,W 100 St & Broadway,4.2,214.15,36
+872,W 100 St & Manhattan Ave,4.3,619.85,34
+873,W 104 St & Amsterdam Ave,4.2,355.8,45
+874,W 106 St & Amsterdam Ave,4.15,357.2,34
+875,W 106 St & Central Park West,4.325,401.05,56
+876,W 107 St & Columbus Ave,4.308333333333334,434.4,22
+877,W 11 St & 6 Ave,4.35,1417.0,45
+878,W 110 St & Amsterdam Ave,4.275,468.65,41
+879,W 116 St & Amsterdam Ave,4.125,533.65,32
+880,W 116 St & Broadway,4.0,526.45,39
+881,W 120 St & Claremont Ave,4.125,656.6,34
+882,W 129 St & Convent Ave,4.175,519.85,23
+883,W 13 St & 5 Ave,4.3,1763.0,39
+884,W 133 St & 12 Ave,4.075,549.3,15
+885,W 135 St & Lenox Terrace Pl,4.05,561.7,26
+886,W 140 St & Riverside Dr,4.15,476.55,23
+887,W 145 St & Amsterdam Ave,4.2,382.9166666666667,17
+888,W 146 St & Broadway,4.1,517.15,27
+889,W 147 St & Adam Clayton Powell Blvd,4.15,367.15,22
+890,W 148 St & Amsterdam Ave,4.2,325.75,18
+891,W 15 St & 10 Ave,4.2,1434.35,51
+892,W 15 St & 6 Ave,4.25,1886.8,72
+893,W 15 St & 7 Ave,4.25,1487.6,77
+894,W 155 St & Frederick Douglass Blvd,4.2625,257.725,31
+895,W 159 St & Edgecombe Ave,4.2,270.2,20
+896,W 16 St & The High Line,4.25,1181.25,57
+897,W 160 St & St. Nicholas Ave,4.05,260.3,21
+898,W 163 St & Riverside Dr,3.975,208.3,17
+899,W 165 St & Fort Washington Ave,3.85,228.15,23
+900,W 18 St & 6 Ave,4.275,1929.8,66
+901,W 181 St & Riverside Dr,3.9,320.55,19
+902,W 20 St & 10 Ave,4.25,1171.35,46
+903,W 20 St & 7 Ave,4.3,1595.95,43
+904,W 20 St & 8 Ave,4.3,751.7,79
+905,W 21 St & 6 Ave,4.35,1656.55,71
+906,W 22 St & 8 Ave,4.35,889.7,61
+907,W 25 St & 6 Ave,4.175,1489.75,47
+908,W 26 St & 10 Ave,4.1,510.7,50
+909,W 29 St & 9 Ave,4.3,937.05,23
+910,W 30 St & 10 Ave,4.025,609.2,54
+911,W 31 St & 7 Ave,4.25,1449.6,76
+912,W 34 St & 11 Ave,4.175,771.45,74
+913,W 35 St & Dyer Ave,4.3,977.9,37
+914,W 36 St & 7 Ave,4.175,1616.4,37
+915,W 41 St & 8 Ave,4.225,1564.7,65
+916,W 42 St & 6 Ave,4.275,1747.0,44
+917,W 42 St & Dyer Ave,4.2,1192.75,17
+918,W 43 St & 10 Ave,4.225,979.25,108
+919,W 44 St & 11 Ave,4.225,1092.3,73
+920,W 47 St & 10 Ave,4.325,1246.95,38
+921,W 49 St & 8 Ave,4.3,1415.35,61
+922,W 50 St & 9 Ave,4.25,1423.4,28
+923,W 51 St & 6 Ave,4.325,1211.55,78
+924,W 52 St & 6 Ave,4.3,1311.5,54
+925,W 53 St & 10 Ave,4.25,1371.85,29
+926,W 54 St & 11 Ave,4.3,1321.85,50
+927,W 54 St & 9 Ave,4.25,1434.65,42
+928,W 59 St & 10 Ave,4.275,1366.2,111
+929,W 64 St & Thelonious Monk Circle,4.175,1366.0,43
+930,W 67 St & Broadway,3.975,833.6,25
+931,W 70 St & Amsterdam Ave,4.1,660.1,39
+932,W 76 St & Columbus Ave,4.1,1254.2,56
+933,W 84 St & Columbus Ave,4.125,825.25,31
+934,W 87 St & Amsterdam Ave,4.2,850.1,40
+935,W 87 St & West End Ave,4.2,814.35,44
+936,W 89 St & Columbus Ave,4.15,829.0,44
+937,W 90 St & Amsterdam Ave,4.175,706.7,28
+938,W 92 St & Broadway,4.125,721.2,20
+939,W 95 St & Broadway,4.05,689.15,29
+940,W Broadway & Spring St,4.3,1330.7,63
+941,W Broadway & W Houston St,4.25,1375.4,50
+942,Wadsworth Ave & W 175 St,4.075,237.0,23
+943,Wadsworth Ave & W 179 St,3.925,285.5,34
+944,Wales Ave & E 147 St,3.9833333333333334,68.15,17
+945,Walnut Ave & E 136 St,3.875,32.4,16
+946,Walton Ave & E 168 St,3.55,69.05,18
+947,Walton Ave & E 171 St,3.525,34.55,18
+948,Wards Meadow Comfort Station,3.95,91.8,10
+949,Warren St,4.15,554.3,21
+950,Warren St & Court St,4.2,495.1,28
+951,Washington Ave & E 163 St,4.025,77.15,21
+952,Washington Ave & E 174 St,3.075,31.25,18
+953,Washington Ave & Greene Ave,4.175,481.05,15
+954,Washington Ave & Park Ave,4.25,469.1,52
+955,Washington Park,4.25,394.05,15
+956,Washington Pl & 6 Ave,4.2,1552.7,0
+957,Washington Pl & Broadway,4.325,2168.7,24
+958,Washington St,4.0,535.1,16
+959,Washington St & Barrow St,4.25,1204.65,48
+960,Waterbury St & Stagg St,4.45,449.45,22
+961,Waterloo Pl & Crotona Park East,3.425,34.65,16
+962,Watts St & Greenwich St,4.35,707.05,30
+963,Webster Ave & E 166 St,3.85,70.1,19
+964,West Drive & Prospect Park West,4.225,305.2,25
+965,West End Ave & W 107 St,4.125,432.25,30
+966,West End Ave & W 60 St,4.225,994.85,40
+967,West St & Chambers St,4.125,728.3,111
+968,West St & Liberty St,3.9833333333333334,513.2166666666667,38
+969,West Thames St,4.125,469.85,67
+970,Westchester Ave & E 156 St,4.0,73.55,16
+971,Westchester Ave & Jackson Ave,3.975,68.6,22
+972,Westchester Ave & Longwood Ave,3.9,57.3,23
+973,Westchester Ave & Southern Blvd,3.925,22.35,19
+974,White St & Johnson Ave,4.3,493.75,22
+975,White St & Moore St,4.325,463.95,18
+976,Wilkins Ave & Crotona Park E,3.475,33.4,15
+977,William St & Pine St,4.175,484.3,55
+978,Willis Ave & Bruckner Blvd,4.275,252.65,15
+979,Willis Ave & E 137 St,4.2,155.75,19
+980,Willis Ave & E 141 St,4.075,199.3,16
+981,Willis Ave & E 143 St,4.025,195.85,21
+982,Willoughby Ave & Hall St,4.1,516.8,45
+983,Willoughby Ave & Myrtle Ave,4.275,443.45,17
+984,Willoughby Ave & Onderdonk Ave,4.275,357.3,27
+985,Willoughby Ave & Tompkins Ave,4.275,154.9,17
+986,Willoughby Ave & Walworth St,4.225,353.2,15
+987,Willoughby Ave & Wyckoff Ave,4.275,309.75,21
+988,Willoughby St & Ashland Pl,4.175,469.05,29
+989,Willoughby St & Fleet St,4.075,452.35,56
+990,Willow Ave & E 133 St,4.0,38.31666666666667,19
+991,Wilson Ave & Moffat St,4.4,111.35,30
+992,Wilson Ave & Troutman St,4.275,454.5,26
+993,Windsor Pl & 8 Ave,4.25,312.85,19
+994,Withers St & Kingsland Ave,4.441666666666666,380.8,17
+995,Wolcott St & Dwight St,4.2,557.2,20
+996,Woodward Ave & Harman St,4.35,258.35,16
+997,Wyckoff Av & Jefferson St,4.3,311.3,25
+998,Wyckoff Av & Stanhope St,4.275,307.9,21
+999,Wythe Ave & Metropolitan Ave,4.175,827.8,47
